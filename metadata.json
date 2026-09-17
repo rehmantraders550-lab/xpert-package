@@ -1,0 +1,6 @@
+{
+  "name": "Xpert Packages",
+  "description": "Premium LLDPE packaging manufacturer portfolio and bag configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
